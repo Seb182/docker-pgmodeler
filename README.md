@@ -6,7 +6,7 @@ To run this image, share the X11 socket or use any
 of the other methods to run X11 Apps in Docker.
 
 For example, you can run the image like this on Linux. With this snippet
-in your `~/.bahsrc`:
+in your `~/.bashrc`:
 
 ```
 pgmodeler()
